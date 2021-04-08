@@ -1,0 +1,16 @@
+D:\C#\BasicPrograms\EmployeeWageComputation\bin\Debug\net5.0\EmployeeWageComputation.exe
+D:\C#\BasicPrograms\EmployeeWageComputation\bin\Debug\net5.0\EmployeeWageComputation.deps.json
+D:\C#\BasicPrograms\EmployeeWageComputation\bin\Debug\net5.0\EmployeeWageComputation.runtimeconfig.json
+D:\C#\BasicPrograms\EmployeeWageComputation\bin\Debug\net5.0\EmployeeWageComputation.runtimeconfig.dev.json
+D:\C#\BasicPrograms\EmployeeWageComputation\bin\Debug\net5.0\EmployeeWageComputation.dll
+D:\C#\BasicPrograms\EmployeeWageComputation\bin\Debug\net5.0\ref\EmployeeWageComputation.dll
+D:\C#\BasicPrograms\EmployeeWageComputation\bin\Debug\net5.0\EmployeeWageComputation.pdb
+D:\C#\BasicPrograms\EmployeeWageComputation\obj\Debug\net5.0\EmployeeWageComputation.csprojAssemblyReference.cache
+D:\C#\BasicPrograms\EmployeeWageComputation\obj\Debug\net5.0\EmployeeWageComputation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BasicPrograms\EmployeeWageComputation\obj\Debug\net5.0\EmployeeWageComputation.AssemblyInfoInputs.cache
+D:\C#\BasicPrograms\EmployeeWageComputation\obj\Debug\net5.0\EmployeeWageComputation.AssemblyInfo.cs
+D:\C#\BasicPrograms\EmployeeWageComputation\obj\Debug\net5.0\EmployeeWageComputation.csproj.CoreCompileInputs.cache
+D:\C#\BasicPrograms\EmployeeWageComputation\obj\Debug\net5.0\EmployeeWageComputation.dll
+D:\C#\BasicPrograms\EmployeeWageComputation\obj\Debug\net5.0\ref\EmployeeWageComputation.dll
+D:\C#\BasicPrograms\EmployeeWageComputation\obj\Debug\net5.0\EmployeeWageComputation.pdb
+D:\C#\BasicPrograms\EmployeeWageComputation\obj\Debug\net5.0\EmployeeWageComputation.genruntimeconfig.cache
